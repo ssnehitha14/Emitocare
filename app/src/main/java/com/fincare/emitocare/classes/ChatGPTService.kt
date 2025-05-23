@@ -9,7 +9,7 @@ import org.json.JSONObject
 import java.io.IOException
 
 object ChatGPTService {
-    private const val API_KEY = "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"
+    private  val API_KEY = System.getenv("OPENAI_API_KEY") ?: "your-default-key"
     private const val API_URL = "https://api.openai.com/v1/chat/completions"
 
     fun getChatResponse(userMessage: String, context: Context, callback: (String, JSONObject) -> Unit) {
