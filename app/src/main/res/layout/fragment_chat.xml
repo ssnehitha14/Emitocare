@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/soft_teal_bg">
+
+    <!-- RecyclerView for Chat Messages -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewChat"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical"
+        android:paddingBottom="8dp" />
+
+    <!-- Chat Input Box & Send Button Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:background="@color/white"
+        android:elevation="2dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/white"
+        android:clipToPadding="false">
+
+        <EditText
+            android:id="@+id/editTextMessage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Type a message..."
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:maxLines="3"
+            android:background="@drawable/rounded_edittext"
+            android:imeOptions="actionSend" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonSend"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="8dp"
+            android:contentDescription="send"
+            android:text="send"
+            android:backgroundTint="@color/teal_200"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:tint="@color/teal_200"/>
+    </LinearLayout>
+</LinearLayout>

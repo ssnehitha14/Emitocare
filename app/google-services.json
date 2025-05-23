@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307113246250",
+    "project_id": "emitocare-30944",
+    "storage_bucket": "emitocare-30944.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307113246250:android:a894570d50bb586a6f4d53",
+        "android_client_info": {
+          "package_name": "com.fincare.emitocare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIMP7Qldnpm0geWJMfKAgr_YLCBube6pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

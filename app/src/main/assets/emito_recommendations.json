@@ -1,0 +1,2052 @@
+{
+  "food": {
+    "happy": [
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      }
+    ],
+    "sad": [
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      }
+    ],
+    "stressed": [
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      }
+    ],
+    "neutral": [
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Fruit Salad",
+        "description": "Colorful, fresh, and healthy.",
+        "imageUrl": "https://example.com/images/fruit_salad.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      },
+      {
+        "title": "Pasta Alfredo",
+        "description": "Creamy and comforting.",
+        "imageUrl": "https://example.com/images/pasta_alfredo.jpg"
+      },
+      {
+        "title": "Chocolate Cake",
+        "description": "Indulge your sweet tooth!",
+        "imageUrl": "https://example.com/images/chocolate_cake.jpg"
+      },
+      {
+        "title": "Mango Smoothie",
+        "description": "Tropical and sweet \u2014 perfect for sunny vibes.",
+        "imageUrl": "https://example.com/images/mango_smoothie.jpg"
+      },
+      {
+        "title": "Ice Cream Sundae",
+        "description": "A sweet treat to celebrate your happiness!",
+        "imageUrl": "https://example.com/images/icecream.jpg"
+      }
+    ]
+  },
+  "music": {
+    "happy": [
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      }
+    ],
+    "sad": [
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      }
+    ],
+    "stressed": [
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      }
+    ],
+    "neutral": [
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Sunflower - Post Malone",
+        "description": "Upbeat and mellow!",
+        "imageUrl": "https://example.com/images/sunflower.jpg"
+      },
+      {
+        "title": "Shake It Off - Taylor Swift",
+        "description": "Shake away the stress!",
+        "imageUrl": "https://example.com/images/taylor_swift.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Weightless - Marconi Union",
+        "description": "Scientifically proven to reduce anxiety.",
+        "imageUrl": "https://example.com/images/marconi.jpg"
+      },
+      {
+        "title": "Someone Like You - Adele",
+        "description": "Let it all out and feel the emotion.",
+        "imageUrl": "https://example.com/images/adele.jpg"
+      },
+      {
+        "title": "Happy - Pharrell Williams",
+        "description": "Get your groove on!",
+        "imageUrl": "https://example.com/images/pharrell.jpg"
+      }
+    ]
+  },
+  "travel": {
+    "happy": [
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      }
+    ],
+    "sad": [
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      }
+    ],
+    "stressed": [
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      }
+    ],
+    "neutral": [
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Forest Cabin Retreat",
+        "description": "Disconnect and reset.",
+        "imageUrl": "https://example.com/images/cabin.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "City Tour",
+        "description": "Explore the local culture.",
+        "imageUrl": "https://example.com/images/city_tour.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Mountains of Himachal",
+        "description": "Breathe in the fresh air.",
+        "imageUrl": "https://example.com/images/himachal.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      },
+      {
+        "title": "Beach in Goa",
+        "description": "Relax by the waves.",
+        "imageUrl": "https://example.com/images/goa_beach.jpg"
+      },
+      {
+        "title": "Desert Safari",
+        "description": "An adventure under the stars.",
+        "imageUrl": "https://example.com/images/desert.jpg"
+      }
+    ]
+  },
+  "exercise": {
+    "happy": [
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      }
+    ],
+    "sad": [
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      }
+    ],
+    "stressed": [
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      }
+    ],
+    "neutral": [
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Jogging in Park",
+        "description": "Clear your mind with a run.",
+        "imageUrl": "https://example.com/images/jogging.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "HIIT Workout",
+        "description": "Boost endorphins fast!",
+        "imageUrl": "https://example.com/images/hiit.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Morning Yoga",
+        "description": "Stretch and breathe to start the day calmly.",
+        "imageUrl": "https://example.com/images/yoga.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Dance Workout",
+        "description": "Move and groove to happy tunes.",
+        "imageUrl": "https://example.com/images/dance.jpg"
+      },
+      {
+        "title": "Home Stretching",
+        "description": "Gentle yet effective.",
+        "imageUrl": "https://example.com/images/stretching.jpg"
+      }
+    ]
+  },
+  "stories": {
+    "happy": [
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      }
+    ],
+    "sad": [
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      }
+    ],
+    "stressed": [
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      }
+    ],
+    "neutral": [
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Chicken Soup for the Soul",
+        "description": "Feel-good short stories.",
+        "imageUrl": "https://example.com/images/chicken_soup.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Giving Tree",
+        "description": "A heartwarming tale about love.",
+        "imageUrl": "https://example.com/images/giving_tree.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "The Alchemist",
+        "description": "A journey to finding one\u2019s purpose.",
+        "imageUrl": "https://example.com/images/alchemist.jpg"
+      },
+      {
+        "title": "Kindness is Magic",
+        "description": "Real stories of random kindness.",
+        "imageUrl": "https://example.com/images/kindness.jpg"
+      },
+      {
+        "title": "Three Questions - Tolstoy",
+        "description": "Wisdom through a short tale.",
+        "imageUrl": "https://example.com/images/tolstoy.jpg"
+      }
+    ]
+  }
+}

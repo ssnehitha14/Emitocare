@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ProfileEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:background">@drawable/edit_text_background</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="EmitoCare.Toolbar.TitleText" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <!-- Use your custom font in res/font/my_font.ttf -->
+        <item name="fontFamily">cursive</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/teal_500</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

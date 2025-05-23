@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Emitocare</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create">Dont have an account? Create one</string>
+<!-- Motivation notification titles -->
+<string name="motivation_reminder_title">Motivation Reminder</string>
+<string name="well_done_title">Well Done! Time to Rest</string>
+<string name="reminder_title">Reminder</string>
+
+<!-- Work Start Messages -->
+<string-array name="work_start_messages">
+    <item>Good morning! Let’s start the day with a positive mindset!</item>
+    <item>Time to kick off! You\'ve got this, let’s make today awesome!</item>
+    <item>Start your day strong! Your hard work will pay off.</item>
+    <!-- Add more messages here -->
+</string-array>
+
+<!-- Work End Messages -->
+<string-array name="work_end_messages">
+    <item>Great job today! Time to relax and recharge.</item>
+    <item>Well done! You\'ve earned your rest. See you tomorrow!</item>
+    <item>Another day in the books! Enjoy your well-deserved break.</item>
+    <!-- Add more messages here -->
+</string-array>
+</resources>
